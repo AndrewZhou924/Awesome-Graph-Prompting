@@ -1,6 +1,10 @@
 <h1 align="center"><b>Awesome-Graph-Prompting</b></h1>
 
-A curated list of resources for graph prompting methods. Ongoing update.
+*A curated list of resources for graph prompting methods. Ongoing update.*
+
+*If some related papers are missing, please contact us via pull requests :)*
+
+## Papers
 
 WWW 2023 - GraphPrompt: Unifying Pre-Training and Downstream Tasks for Graph Neural Networks.
 [[paper]](https://dl.acm.org/doi/pdf/10.1145/3543507.3583386)
