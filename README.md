@@ -9,6 +9,7 @@ SIGIR 2023 - Schema-aware Reference as Prompt Improves Data-Efficient Knowledge 
 
 Arxiv 2023 - PRODIGY: Enabling In-context Learning Over Graphs. 
 [[paper]](https://arxiv.org/pdf/2305.12600.pdf)
+[[code]](https://github.com/snap-stanford/prodigy)
 
 Arxiv 2023 - A Survey of Graph Prompting Methods: Techniques, Applications, and Challenges.
 [[paper]](https://arxiv.org/pdf/2303.07275.pdf)
