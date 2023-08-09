@@ -6,6 +6,10 @@
 
 ## Papers
 
+KDD 2023 (Best Paper Award) - All in One: Multi-Task Prompting for Graph Neural Networks
+[[paper]](https://arxiv.org/pdf/2307.01504.pdf) 
+[[code]](https://github.com/sheldonresearch/ProG)
+
 WWW 2023 - GraphPrompt: Unifying Pre-Training and Downstream Tasks for Graph Neural Networks.
 [[paper]](https://dl.acm.org/doi/pdf/10.1145/3543507.3583386)
 
@@ -43,3 +47,4 @@ AAAI 2022 - Enhanced Story Comprehension for Large Language Models through Dynam
 
 KDD 2022 - GPPT: Graph Pre-training and Prompt Tuning to Generalize Graph Neural Networks.
 [[paper]](https://dl.acm.org/doi/abs/10.1145/3534678.3539249)
+
