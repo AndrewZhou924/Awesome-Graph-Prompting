@@ -10,12 +10,16 @@ KDD 2023 (Best Paper Award) - All in One: Multi-Task Prompting for Graph Neural 
 [[paper]](https://arxiv.org/pdf/2307.01504.pdf) 
 [[code]](https://github.com/sheldonresearch/ProG)
 
+WWW 2023 - Structure Pretraining and Prompt Tuning for Knowledge Graph Transfer.
+[[paper]](https://arxiv.org/pdf/2303.03922.pdf)
+
 WWW 2023 - GraphPrompt: Unifying Pre-Training and Downstream Tasks for Graph Neural Networks.
 [[paper]](https://dl.acm.org/doi/pdf/10.1145/3543507.3583386)
+[[code]](https://github.com/zjukg/KGTransformer)
 
 SIGIR 2023 - Schema-aware Reference as Prompt Improves Data-Efficient Knowledge Graph Construction. 
-[[paper](https://arxiv.org/abs/2210.10709)]
-[[code](https://github.com/zjunlp/RAP)]
+[[paper]](https://arxiv.org/abs/2210.10709)
+[[code]](https://github.com/zjunlp/RAP)
 
 Arxiv 2023 - PRODIGY: Enabling In-context Learning Over Graphs. 
 [[paper]](https://arxiv.org/pdf/2305.12600.pdf)
