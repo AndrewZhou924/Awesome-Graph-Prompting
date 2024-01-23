@@ -10,6 +10,9 @@ KDD 2023 (Best Paper Award) - All in One: Multi-Task Prompting for Graph Neural 
 [[paper]](https://arxiv.org/pdf/2307.01504.pdf) 
 [[code]](https://github.com/sheldonresearch/ProG)
 
+CVPR 2023 (Highlight) - Deep Graph Reprogramming
+[[paper]](https://arxiv.org/pdf/2304.14593.pdf) 
+
 WWW 2023 - Structure Pretraining and Prompt Tuning for Knowledge Graph Transfer.
 [[paper]](https://arxiv.org/pdf/2303.03922.pdf)
 
